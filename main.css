@@ -1,0 +1,27 @@
+
+body{
+    background-color:#4eb8f5;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center
+}
+
+img {
+    max-width: 800px;
+}
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+
+p{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
